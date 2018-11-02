@@ -14,3 +14,6 @@ http://thecrix.de/
 <div align='center'>
   <img src='output/Plot_LB-10_EP-25.png'>
 </div>
+
+<br>
+To Do: Run different (smaller) model architectures and implement regularisation.
