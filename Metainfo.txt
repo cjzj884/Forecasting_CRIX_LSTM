@@ -1,0 +1,31 @@
+Name of Quantlet: CRIX_LSTM
+
+Published in: Presentation in course 'Smart Data Analytics' at University of St. Gallen
+
+Description: 'Produces a volatility forecast of the CRIX based on a LSTM model.'
+
+Keywords:
+
+- LSTM
+- forecast
+- volatility
+- CRIX
+- Cryptocurrency
+- index
+- time-series
+- estimation
+- Python
+- keras
+
+Author: Lukas Schreiner, Julian Schwarzen, David Wipraechtiger, Cedric Mueller
+
+Submitted: Friday, November 02 2018 by Cedric Mueller
+
+Input: http://thecrix.de/data/crix.json
+
+Example:
+
+- Generates LSTM volatility forecast for CRIX
+- Generates graph plotting fitted training and test set against actual EWMA volatility
+
+
